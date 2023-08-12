@@ -1,1 +1,1 @@
-ALX Frontend project
+ALX Frontend Projects

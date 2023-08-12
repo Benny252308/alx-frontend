@@ -1,9 +1,6 @@
 0x01. Developer tools
 Developer-Tools
 
-Resources
-Read or watch:
-
 Chrome DevTools | Tools for Web Developers | Google Developers
 Introduction | Down and Dirty with Chrome Developer Tools
 Firefox Developer Tools | MDN
